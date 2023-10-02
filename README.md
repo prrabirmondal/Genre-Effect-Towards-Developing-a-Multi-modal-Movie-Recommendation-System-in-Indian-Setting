@@ -12,7 +12,10 @@ Audio/Video embeddings. The paper explores the performance of different combinat
 the study delves into the assessment of diverse keyframe extraction techniques and introduces distinct modality-specific embedding processes. These findings collectively enhance our understanding of recommendation systems and their 
 application to multi-modal datasets.
 
-The file details in the repo:
+![Main_model](https://github.com/prrabirmondal/Genre-Effect-Towards-Developing-a-Multi-modal-Movie-Recommendation-System-in-Indian-Setting/assets/93509969/b3664e6a-f112-4b52-a448-e9e06dd2477c)
+
+------------------------------------------------------------------------------------------------
+# The file details in the repo:
 
 
     1) Single_frame_SceneDetection.ipynb :   This file contains code for extracting the single keyframe from the movie trailer using the PySceneDetect python module.
