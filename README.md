@@ -1,5 +1,6 @@
 # Genre-Effect-Towards-Developing-a-Multi-modal-Movie-Recommendation-System-in-Indian-Setting
 A classification-based Recommendation System on the Hindi Movie dataset, Flickslore.
+[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10286147)
 
 
 In contemporary times, the Recommendation System (RS), a subset of information filtering systems, requires no formal introduction. The movie recommendation system holds a pivotal role in streaming platforms, where an extensive library
